@@ -33,7 +33,7 @@ Preprocessing:
 - Groups masks by image ID
 
 ## Train Images and Masks
-[Train_data](./img/train_data.png)
+![Train_data](./img/train_data.png)
 
 Augmentation:
 - Customized Vertical/Horizontal Flip (for masks and images)
@@ -49,14 +49,14 @@ Model Training:
 - (Optional) Add early stopping
 
 ## Training and Validation Loss Curve
-[Loss_Curve](./img/train_val_loss.png)
+![Loss_Curve](./img/train_val_loss.png)
 
 Evaluation:
 - Evaluate on test dataset
 - Save submission.csv with columns(id, predicted)
 
 ## Evaluation Results
-[Evaluation](./img/evaluate_sample.png)
+![Evaluation](./img/evaluate_sample.png)
 
 ## Performance Snapshot
 
